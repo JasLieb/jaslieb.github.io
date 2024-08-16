@@ -27,9 +27,9 @@ This website showcases my *résumé* and my GitHub showcases various projects wh
 
 # Favourite musics
 
-{% include spotify-embed.html url="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" %}
-{% include spotify-embed.html url="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL" %}
-{% include spotify-embed.html url="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" %}
+{% include spotify-embed.html scrUrl="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" %}
+{% include spotify-embed.html scrUrl="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL" %}
+{% include spotify-embed.html scrUrl="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" %}
 
 
 <!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
