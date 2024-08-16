@@ -3,6 +3,9 @@ title: home
 layout: home
 permalink: /
 ---
+
+<META HTTP-EQUIV='Content-Security-Policy' CONTENT="default-src 'self' ; script-src 'self';style-src 'self'; img-src 'self' *; media-src 'self' ; frame-src open.spotify.com;">
+
 # Hi ! I’m Jason Liebault, a versatile developer based in Toulouse.
 
 <div align="center" style="margin: 3%">
@@ -10,7 +13,7 @@ permalink: /
 </div>
 
 I have experience in languages and tools like C#/.NET, JS, Angular, Python, and many more. I'm passionate about creating innovative solutions and am always open to new opportunities. 
-This website showcases my *résumé* and my GitHub showcases various projects where I’ve applied my skills, particularly in C#/.Net. I also have a strong interest in music,and litterature which complements my creativity in tech.
+This website showcases my *résumé* and my GitHub showcases various projects where I’ve applied my skills, particularly in C#/.Net. I also have a strong interest in music, and litterature which complements my creativity in tech.
 
 # Skills
 
