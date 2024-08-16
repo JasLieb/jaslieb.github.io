@@ -31,7 +31,7 @@ baseurl: "/"
 url: "https://jaslieb.github.io"
 
 header_pages:
-  - index.md
+  - home.md
   - projects.md
   - jobs.md
   - education.md
