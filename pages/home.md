@@ -5,7 +5,7 @@ permalink: /
 ---
 # Hi ! I’m Jason Liebault, a versatile developer based in Toulouse.
 
-<div align="center">
+<div align="center" style="margin: 3%">
     <img src="/assets/jaslieb.png" width="300" />
 </div>
 
@@ -35,7 +35,7 @@ This website showcases my *résumé* and my GitHub showcases various projects wh
 
 # Favourite books
 
-<div align="center" style="display: flex;flex-wrap: wrap;">
+<div align="center" style="display: flex;flex-wrap: wrap; margin: 3%;">
     <img width="150" src="/assets/house_of_leaves.png" />
     <img width="150" src="/assets/1984.png" />
     <img width="150" src="/assets/book_no_name.png" />

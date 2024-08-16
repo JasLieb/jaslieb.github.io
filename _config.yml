@@ -3,6 +3,9 @@ description: "My portfolio page"
 baseurl: "/"
 url: "https://jaslieb.github.io"
 
+plugins:
+  - jekyll-content-security-policy-generator
+
 header_pages:
   - pages/home.md
   - pages/projects.md
