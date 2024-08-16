@@ -27,15 +27,15 @@ This website showcases my *résumé* and my GitHub showcases various projects wh
 
 # Favourite musics
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Favourite books
 
-<div style="display: flex;flex-wrap: wrap;">
+<div align="center" style="display: flex;flex-wrap: wrap;">
     <img width="150" src="/assets/house_of_leaves.png" />
     <img width="150" src="/assets/1984.png" />
     <img width="150" src="/assets/book_no_name.png" />
