@@ -3,9 +3,6 @@ title: home
 layout: home
 permalink: /
 ---
-
-<META HTTP-EQUIV='Content-Security-Policy' CONTENT="default-src 'self' ; script-src 'self';style-src 'self'; img-src 'self' *; media-src 'self' ; frame-src open.spotify.com;">
-
 # Hi ! I’m Jason Liebault, a versatile developer based in Toulouse.
 
 <div align="center" style="margin: 3%">
@@ -30,11 +27,16 @@ This website showcases my *résumé* and my GitHub showcases various projects wh
 
 # Favourite musics
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{% include spotify-embed.html url="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" %}
+{% include spotify-embed.html url="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL" %}
+{% include spotify-embed.html url="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" %}
+
+
+<!-- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55mJleti2WfWEFNFcBduhc" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3OT9zVVg5JFjXfGmn2TNrL" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4aaxuvlLF43SvhCoadq1Jx" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
 
 # Favourite books
 
