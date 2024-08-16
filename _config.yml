@@ -1,44 +1,15 @@
-# title: JasLieb Portfolio
-# email: jason.liebault@outlook.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   My portfolio page.
-# baseurl: "/index" # the subpath of your site
-# url: "jaslieb.github.io" # the base hostname & protocol for your site
-# github_username:  jaslieb
-
-# # Required plugins for the theme to work properly
-# plugins:
-#   - jekyll-remote-theme
-#   - jemoji
-
-# # Including jekyll-shell-theme using the jekyll-remote-theme plugin
-# remote_theme: b2a3e8/jekyll-theme-console
-
-# sass:
-#   style: compressed
-
-# highlighter: rouge #selecting the highlighter, default is rouge
-
-# header_pages:
-#   - index.md
-
-# # controls how big the shell and font looks
-# font-size: small # options: [small] or [large]
-
 title: JasLieb Portfolio
-description: "My portfolio page."
+description: "My portfolio page"
 baseurl: "/"
 url: "https://jaslieb.github.io"
 
 header_pages:
-  - home.md
-  - projects.md
-  - jobs.md
-  - education.md
+  - pages/home.md
+  - pages/projects.md
+  - pages/jobs.md
+  - pages/education.md
 
 style: dark
-
-footer: ''
 
 # Build settings
 markdown: kramdown

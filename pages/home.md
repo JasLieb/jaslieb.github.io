@@ -9,9 +9,9 @@ I have experience in languages and tools like C#/.NET, JS, Angular, Python, and 
 
 # Skills
 
-- **Programming Languages**: C# .NET
-- **Tools and Methods**: Git, Test Driven Development
-- **Project Management**: Team oversight, planning, project delivery
+- **Programming Languages**: C# .NET, JS, Angular, Python, ...
+- **Tools and Methods**: Git, Test Driven Development, Agile, ...
+- **Project Management**: Team oversight, planning, project delivery, ...
 
 # See also
 
