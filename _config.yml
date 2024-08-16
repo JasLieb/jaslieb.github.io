@@ -8,6 +8,7 @@ header_pages:
   - pages/projects.md
   - pages/jobs.md
   - pages/education.md
+  - pages/contact.md
 
 style: dark
 

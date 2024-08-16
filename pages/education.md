@@ -4,7 +4,7 @@ layout: page
 permalink: /education
 ---
 # Education
-
+<br/>
 ## Toulouse Ynov Campus
 **Expert in Software, Mobile & IoT Development** *2019 - 2021*
 
@@ -17,10 +17,7 @@ permalink: /education
 ## Lycée Marcel Sembat
 **Baccalauréat STI2D** *2014 - 2016*
 
-## Lycée Pierre Corneille
-**General** *2014 - 2016*
-
 
 ## Certifications
-
+<br/>
 - C2I Level 1
