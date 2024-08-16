@@ -33,6 +33,8 @@ url: "https://jaslieb.github.io"
 header_pages:
   - index.md
   - projects.md
+  - jobs.md
+  - education.md
 
 style: dark
 
