@@ -3,7 +3,9 @@ title: jobs
 layout: page
 permalink: /jobs
 ---
+
 # Professional Experience (IT)
+
 ## .Net Engineer / Technical Project Manager
 At SPIX Industry, Labège *September 2018 - July 2024*
 
@@ -22,7 +24,10 @@ For this internship, I was tasked with developing a set of indicators for automa
 Hard skills :  C#/.NET, WPF, VBA, Git, Database
 Soft skills :  Problem analysis, Customer reporting, Documentation
 
+<br/>
+
 # Professional Experience (Other)
+
 ## Seasonal Logistics Store Assistant
 At Thales LAS, Ymare *July 2018 - August 2018*
 
