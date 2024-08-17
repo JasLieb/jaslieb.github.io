@@ -4,20 +4,19 @@ layout: page
 permalink: /education
 ---
 # Education
+
+## Expert in Software, Mobile & IoT Development
+At Ynov Campus, Toulouse *2019 - 2021*
+
+## Professional License in DQL, Computer Science
+At IUT Paul Sabatier, Toulouse *2018 - 2019*
+
+## DUT in Computer Science
+At IUT de Caen, Ifs *2016 - 2018*
+
+## Baccalauréat STI2D
+At Lycée Marcel Sembat, Sotteville-lès-Rouen *2014 - 2016*
 <br/>
-## Toulouse Ynov Campus
-**Expert in Software, Mobile & IoT Development** *2019 - 2021*
 
-## IUT Paul Sabatier - Toulouse, Auch, Castres
-**Professional License in DQL, Computer Science** *2018 - 2019*
-
-## IUT de Caen
-**DUT in Computer Science** *2016 - 2018*
-
-## Lycée Marcel Sembat
-**Baccalauréat STI2D** *2014 - 2016*
-
-
-## Certifications
-<br/>
+# Certifications
 - C2I Level 1
