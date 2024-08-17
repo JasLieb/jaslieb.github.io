@@ -19,6 +19,8 @@ If you have an Android phone, try it by [dowloading app's apk here](https://gith
 Application installation from unknown sources must be granted, [see more there](https://www.appaloosa.io/blog/guides/how-to-install-apps-from-unknown-sources-in-android).
 Repo available through [this link](https://github.com/JasLieb/ChronoTimer).
 
+<br/>
+
 - DistrictAid
 
 <br/>
@@ -28,6 +30,8 @@ DistrictAid is an application designed to tackle food waste and minimize environ
 The app is divided into the front and back part. The front utilizes the Flutter framework and Dart programming language and the back is written in JS in a Node environment powered by Docker.
 Repo and some public resources available through [this link](https://github.com/JasLieb/district-aid).
 
+<br/>
+
 - Super Caisse
 
 <br/>
@@ -36,6 +40,8 @@ The Super Caisse project is a result of the computer architecture course I took 
 
 The Core and Tests projects are the most important here, in order to follow available 'functionalities'. The WebApi project with the embedded Angular client is merely an optional task that was never completed.
 Repo available through [this link](https://github.com/JasLieb/super-caisse).
+
+<br/>
 
 - Goldfish News (random-news-reader)
 

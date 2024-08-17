@@ -19,4 +19,7 @@ At Lycée Marcel Sembat, Sotteville-lès-Rouen *2014 - 2016*
 <br/>
 
 # Certifications
+
+<br/>
+
 - C2I Level 1
