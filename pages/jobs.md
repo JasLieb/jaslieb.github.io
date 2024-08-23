@@ -16,6 +16,8 @@ Although this is my first long professional experience in the IT world, the comp
 Hard skills :  C#/.NET, WPF, MAUI, Android, JS, Angular, TeamCity, Git, Docker, TDD, Architecture
 Soft skills :  Team lead, Project managment, Team collaboration, Documentation, Customer reporting
 
+<br/>
+
 ## Intern - Indicator Development
 At Airbus Saint-Elois, Toulouse *April 2018 - June 2018*
 
@@ -32,6 +34,8 @@ Soft skills :  Problem analysis, Customer reporting, Documentation
 At Thales LAS, Ymare *July 2018 - August 2018*
 
 Strengthened the logistics team to prepare for the arrival of a new ERP through the serialization of items.
+
+<br/>
 
 ## Seasonal Production Operator 
 At Ferrero, Le Grand-Quevilly *July 2016*
