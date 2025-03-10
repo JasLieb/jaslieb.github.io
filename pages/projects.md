@@ -7,10 +7,21 @@ permalink: /projects
 # Welcome to my project showcase ! 
 
 <br/>
-Here, you'll find links to some of the key projects I've worked on, each reflecting my passion for development and creativity. From applications built with C#/.NET to Angular and innovative tools, these projects highlight my skills. Feel free to explore each one to see the code, learn about the challenges I faced, and discover how I approached each project.
+Here, you'll find links to some of the key projects I've worked on, each reflecting my passion for development and creativity. From applications built with C#/.NET to Angular and others, these projects highlight my skills. Feel free to explore each one to see the code, learn about the challenges I faced, and discover how I approached each project.
 <br/>
 
 ## Projects
+
+<br/>
+
+- MTG Trader
+
+<br/>
+
+MtgTrader is a comprehensive solution for managing Magic: The Gathering card wishlists and tradeable doubles, connecting players, and facilitating trades. This project provides a full-stack application for Magic: The Gathering enthusiasts, written in C# / .NET and Angular with a PostgreSQL database. By diving back into web universe, I want to experiment with a platform that has no equivalent on the market yet, particularly through a Docker containerized deployment or on Render.
+
+The project is deployed and powered by Render free plan, [you can have a try here](https://client-tek5.onrender.com) !
+Repo available through [this link](https://github.com/jasLieb/mtg-trader).
 
 <br/>
 
@@ -48,7 +59,7 @@ Repo available through [this link](https://github.com/JasLieb/super-caisse).
 
 <br/>
 
-- Goldfish News (random-news-reader)
+- Goldfish News
 
 <br/>
 

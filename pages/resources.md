@@ -43,6 +43,7 @@ Happy learning!
     <img height="150" src="/assets/resources/software_craft.png" />
     <img height="150" src="/assets/resources/clean_craftsmanship.png" />
     <img height="150" src="/assets/resources/ddd.png" />
+    <img height="150" src="/assets/resources/enterprise_intergration_patterns.png" />
 </div>
 
 <br/>
@@ -56,6 +57,17 @@ Happy learning!
 <br/>
 
 ## Language Agnostic
+
+### Books
+
+<br/>
+
+<div align="center" style="display: flex;flex-wrap: wrap; margin: 3%;">
+    <img height="150" src="/assets/resources/computer_science_distilled.png" />
+    <img height="150" src="/assets/algo_csharp.png" />
+</div>
+
+<br/>
 
 ### Websites
 
