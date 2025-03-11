@@ -64,7 +64,7 @@ Happy learning!
 
 <div align="center" style="display: flex;flex-wrap: wrap; margin: 3%;">
     <img height="150" src="/assets/resources/computer_science_distilled.png" />
-    <img height="150" src="/assets/algo_csharp.png" />
+    <img height="150" src="/assets/resources/algo_csharp.png" />
 </div>
 
 <br/>
